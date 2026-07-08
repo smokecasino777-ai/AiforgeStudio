@@ -10,7 +10,7 @@ android {
     defaultConfig {
         applicationId = "app.emergent.fierceforgeios2c75fc68"
         minSdk = 24
-        //noinspection EditedTargetSdkVersion,OldTargetApi
+        //noinspection EditedTargetSdkVersion,EditedTargetSdkVersion,OldTargetApi
         targetSdk = 37
         versionCode = 1
         versionName = "1.0"
