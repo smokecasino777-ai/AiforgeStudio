@@ -1,6 +1,9 @@
+@file:Suppress("GrazieInspectionRunner", "GrazieInspectionRunner", "GrazieInspectionRunner",
+    "GrazieInspectionRunner"
+)
+
 package app.emergent.fierceforgeios2c75fc68.ui.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme
